@@ -57,7 +57,7 @@ I am a **Cybersecurity Engineer**, **AI Specialist**, and **Data Analyst**. I sp
   </a>
 </p>
 
-### 👨‍💻 Hacker Stats
+### 👨‍💻 MY Stats
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;AI+%26+Data+Analyst;System+Protection+Activated...;Scanning+for+Threats..." alt="Typing SVG" />
