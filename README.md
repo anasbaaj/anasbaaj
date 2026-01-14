@@ -43,7 +43,6 @@ I am a **Cybersecurity Engineer**, **AI Specialist**, and **Data Analyst**. I sp
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasbaaj&show_icons=true&theme=tokyonight&locale=en" alt="anasbaaj" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasbaaj&layout=compact&theme=tokyonight" alt="anasbaaj" />
-</p>
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasbaaj&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasbaaj&layout=compact&theme=tokyonight)
