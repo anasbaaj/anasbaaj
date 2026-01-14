@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasbaaj.anasbaaj" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=anasbaaj&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views">
 </p>
 
-### Hi there 👋, I'm Anas Baaj
+### Hello World 👋, I'm Anas Baaj
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
 
@@ -45,10 +45,14 @@ I am a **Cybersecurity Engineer**, **AI Specialist**, and **Data Analyst**. I sp
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasbaaj&show_icons=true&theme=tokyonight" alt="Anas's GitHub stats" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasbaaj&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasbaaj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anasbaaj&theme=onedark&no-frame=true&margin-w=15" alt="anasbaaj trophies" />
+  </a>
 </p>
