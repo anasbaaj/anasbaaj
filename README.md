@@ -56,3 +56,86 @@ I am a **Cybersecurity Engineer**, **AI Specialist**, and **Data Analyst**. I sp
     <img src="https://github-profile-trophy.vercel.app/?username=anasbaaj&theme=onedark&no-frame=true&margin-w=15" alt="anasbaaj trophies" />
   </a>
 </p>
+
+### 👨‍💻 Hacker Stats
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;AI+%26+Data+Analyst;System+Protection+Activated...;Scanning+for+Threats..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=anasbaaj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Anas's GitHub stats" />
+  </a>
+</p>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <style>
+    .terminal-text { font-family: 'Courier New', Courier, monospace; font-size: 14px; }
+    .cyan { fill: #4DD0E1; }
+    .orange { fill: #FFB74D; }
+    .white { fill: #FFFFFF; }
+    .green { fill: #81C784; }
+    .gray { fill: #9E9E9E; }
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117" rx="10" ry="10"/>
+  
+  <text x="20" y="40" class="terminal-text white" xml:space="preserve">
+      ,ad8888ba,
+     d8"'    `"8b
+    d8'        `8b
+    88          88
+    88          88  <span class="cyan">A</span>
+    Y8,        ,8P
+     Y8a.    .a8P
+      `"Y8888Y"'
+     _..---.._
+   .'  .---.  `.
+  /   /     \   \
+ /   /       \   \
+|   |         |   |
+|   |_________|   |
+ \  \         /  /
+  \  `-------'  /
+   `.         .'
+     `-------'
+  </text>
+
+  <text x="300" y="40" class="terminal-text cyan">anasbaaj@github</text>
+  <text x="450" y="40" class="terminal-text gray">---------------------------------------</text>
+
+  <text x="300" y="70" class="terminal-text orange">. OS:</text>
+  <text x="500" y="70" class="terminal-text white">Linux (Kali / Ubuntu), Windows, Android</text>
+
+  <text x="300" y="90" class="terminal-text orange">. Host:</text>
+  <text x="500" y="90" class="terminal-text white">Security & AI Research Lab</text>
+
+  <text x="300" y="110" class="terminal-text orange">. Role:</text>
+  <text x="500" y="110" class="terminal-text white">Cybersecurity Specialist & AI/Data Analyst</text>
+
+  <text x="300" y="130" class="terminal-text orange">. IDE:</text>
+  <text x="500" y="130" class="terminal-text white">VS Code, PyCharm, Android Studio, Jupyter</text>
+
+  <text x="300" y="170" class="terminal-text orange">. Languages.Prog:</text>
+  <text x="500" y="170" class="terminal-text white">Python, Java, Kotlin, C++, Bash, SQL</text>
+
+  <text x="300" y="190" class="terminal-text orange">. Focus.Areas:</text>
+  <text x="500" y="190" class="terminal-text white">Network Security, Malware Analysis, LLMs</text>
+
+  <text x="300" y="210" class="terminal-text orange">. Tools.Sec:</text>
+  <text x="500" y="210" class="terminal-text white">Wireshark, Nmap, Metasploit, Burp Suite</text>
+
+  <text x="300" y="250" class="terminal-text gray">- Contact -</text>
+  <text x="450" y="250" class="terminal-text gray">------------------------------------</text>
+
+  <text x="300" y="270" class="terminal-text orange">. Email:</text>
+  <text x="500" y="270" class="terminal-text white">anasbaaj2@gmail.com</text>
+
+  <text x="300" y="290" class="terminal-text orange">. LinkedIn:</text>
+  <text x="500" y="290" class="terminal-text white">linkedin.com/in/anasbaaj</text>
+  
+  <text x="300" y="310" class="terminal-text orange">. Location:</text>
+  <text x="500" y="310" class="terminal-text white">Saudi Arabia <span class="green">(Active)</span></text>
+
+  <text x="300" y="360" class="terminal-text gray">--- System Status: Optimal. Scanning for opportunities... ---</text>
+</svg>
